@@ -1,0 +1,15 @@
+*{
+    background-color: red;
+}
+
+.container {
+    display: flex;
+}
+
+
+.dado {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    background-color: black;
+}
